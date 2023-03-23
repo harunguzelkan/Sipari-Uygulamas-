@@ -1,1 +1,1 @@
-# Sipari-Uygulamas-
+# Siparis Uygulaması
